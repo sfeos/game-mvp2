@@ -1,4 +1,16 @@
 SFEOS Game README
 =================
 
-Hello world
+UNDER CONSTRUCTION
+
+Installation Instructions:
+
+(1) Create a file called .env in webroot that contains something like this:
+
+DB_HOST = localhost
+DB_NAME = my_database_name_that_you_need_to_change
+DB_USER = my_database_username_that_you_need_to_change
+DB_PASS = my_database_password_that_you_need_to_change
+
+
+
